@@ -10,10 +10,14 @@ Funcionalidades:
 </ul>
 <br>
 <br>
-![image](https://github.com/user-attachments/assets/91b9a898-64aa-49ef-8fa9-3e7c36d0831f)
-![{2F6ACD2F-947B-4848-8CA5-E8DB2D100238}](https://github.com/user-attachments/assets/5029229b-383f-4709-8186-4bef94b9319a)
-![image](https://github.com/user-attachments/assets/ecf7bcbc-2ce0-4de0-95d3-bb9b3babb351)
-![image](https://github.com/user-attachments/assets/5d0a1d56-26c6-4eb3-af2f-08e098dc6b42)
+![image](https://github.com/user-attachments/assets/a3df8967-a1a0-4eb5-89cb-1ada6b85cf8b)
+![image](https://github.com/user-attachments/assets/94b2b135-7a88-4d8c-b43d-22befd7c3d1d)
+![image](https://github.com/user-attachments/assets/d0c4210a-b1c4-4da4-90aa-0efc75e7be35)
+![image](https://github.com/user-attachments/assets/718b80bb-9dd2-40b6-a125-ac3f6f7a9df7)
+
+
+
+
 
 
 
