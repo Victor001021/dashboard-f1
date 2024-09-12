@@ -9,6 +9,7 @@ Funcionalidades:
   <li><b>Interatividade:</b> Utilize filtros para explorar dados de diferentes pilotos e equipes.</li>
 </ul>
 <br>
+<br>
 ![image](https://github.com/user-attachments/assets/91b9a898-64aa-49ef-8fa9-3e7c36d0831f)
 ![{2F6ACD2F-947B-4848-8CA5-E8DB2D100238}](https://github.com/user-attachments/assets/5029229b-383f-4709-8186-4bef94b9319a)
 ![image](https://github.com/user-attachments/assets/ecf7bcbc-2ce0-4de0-95d3-bb9b3babb351)
