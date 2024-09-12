@@ -3,10 +3,10 @@ Este dashboard em Power BI oferece uma visão detalhada da Fórmula 1, cobrindo 
 
 Funcionalidades:
 <ul>
-<li>Gráficos de vitórias: Veja a quantidade de vitórias por piloto e por equipe ao longo da história.</li>
-Títulos de pilotos e equipes: Acompanhe os campeonatos conquistados por pilotos e equipes.
-Análises dedicadas: Páginas específicas para visualizar dados detalhados de cada piloto ou equipe, incluindo estatísticas de performance por temporada.
-Interatividade: Utilize filtros dinâmicos para explorar dados de temporadas ou comparar diferentes pilotos e equipes.
+  <li>Gráficos de vitórias: Veja a quantidade de vitórias por piloto e por equipe ao longo da história.</li>
+  <li>Títulos de pilotos e equipes: Acompanhe os campeonatos conquistados por pilotos e equipes.</li>
+  <li>Análises dedicadas: Páginas específicas para visualizar dados detalhados de cada piloto ou equipe, incluindo estatísticas de performance por temporada.</li>
+  <li>Interatividade: Utilize filtros dinâmicos para explorar dados de temporadas ou comparar diferentes pilotos e equipes.</li>
 </ul>
 <br>
 ![image](https://github.com/user-attachments/assets/91b9a898-64aa-49ef-8fa9-3e7c36d0831f)
